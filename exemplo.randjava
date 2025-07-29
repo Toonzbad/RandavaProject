@@ -1,0 +1,7 @@
+System.out.println("Início do programa");
+random {
+    System.out.println("Opção A")
+    System.out.println("Opção B")
+    System.out.println("Opção C")
+}
+System.out.println("Fim do programa");
