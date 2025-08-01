@@ -1,8 +1,8 @@
 # 🎲 RandavaProject
 
-Randava é uma linguagem experimental e compilador voltado para aleatoriedade baseada em dados quânticos reais. Seu principal foco é ser um motor de aleatoriedade que possa ser embutido em sistemas como jogos, simulações, decisões automatizadas e testes com entropia verdadeira.
+Randava é uma linguagem experimental e compilador voltado para aleatoriedade baseada em dados quânticos reais (Sendo a primeira no planeta até então). Seu principal foco é ser um motor de aleatoriedade que possa ser embutido em sistemas como jogos, simulações, decisões automatizadas e testes com entropia verdadeira.
 
-Randava is an experimental language and compiler focused on randomness based on real quantum data. Its main goal is to serve as a randomness engine that can be embedded in systems like games, simulations, automated decisions, and true entropy testing.
+Randava is an experimental language and compiler focused on randomness based on real quantum data (Being the first on the planet so far). Its main goal is to serve as a randomness engine that can be embedded in systems like games, simulations, automated decisions, and true entropy testing.
 
 O projeto já inclui : 
 - Suporte para scripts no formato .randjava
