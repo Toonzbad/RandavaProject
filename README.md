@@ -1,5 +1,9 @@
 # 🎲 RandavaProject
 
+Eu estive trabalhando neste projeto a mais de 6 meses até então, tendo seu inicio oficial em Março de 2025. Tive ajuda de meu Professor de Matemática (Richard) inicialmente e isto é uma grande surpresa de ter chego ao fim. Espero que eu possa continuar a dar apoio pra comunidade de qualquer jeito possível! 
+
+I have been working on this project for over 6 months so far, with its official start in March 2025. I initially had help from my Mathematics teacher (Richard), and it is a great surprise to have reached the end. I hope I can continue to support the community in any way possible!
+
 Randava é uma linguagem experimental e compilador voltado para aleatoriedade baseada em dados quânticos reais (Sendo a primeira no planeta até então). Seu principal foco é ser um motor de aleatoriedade que possa ser embutido em sistemas como jogos, simulações, decisões automatizadas e testes com entropia verdadeira.
 
 Randava is an experimental language and compiler focused on randomness based on real quantum data (Being the first on the planet so far). Its main goal is to serve as a randomness engine that can be embedded in systems like games, simulations, automated decisions, and true entropy testing.
